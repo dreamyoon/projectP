@@ -1,0 +1,8 @@
+/.idea
+/node_modules
+/dist
+/data
+/data_postgre
+/setup
+./snowbell_data
+./npm-debug.log
